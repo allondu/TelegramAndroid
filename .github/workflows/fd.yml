@@ -116,3 +116,4 @@ jobs:
               release_id: `${RELEASE_ID}`,
               body: desc + "\nVersion code: " + `\`${VERSION_CODE}\`` + "."
             });
+
